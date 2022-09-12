@@ -1,7 +1,6 @@
 body{
   font-family: 'Rubik', sans-serif;
   color: white;
-  padding: 0;
 }
 main{
   display: flex;
@@ -70,7 +69,6 @@ p{
   float: right;
   background: none;
   border: none;
-  vertical-align: center;
 }
 img{
   width: 30%;
